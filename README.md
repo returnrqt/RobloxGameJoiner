@@ -3,20 +3,20 @@ Allows you to launch Roblox with custom arguments from website
 
 # Roblox launch arguments
 ## Game arguments
-`placeid` - Launches Roblox game with place id\n
-`gameInstanceId` - Joins server by JobId\n
-`linkCode` - Joins server by private server invite code\n
-`launchData` - Launches Roblox with game join data\n
-`accessCode` - Joins server by access code *Kicks after launch*\n
-`reservedServerAccessCode` - Launches game with reserved server access code *Kicks after launch*\n
-`userID` - Follows user into game\n
-`callId` - Id of Roblox call\n
+`placeid` - Launches Roblox game with place id<br />
+`gameInstanceId` - Joins server by JobId<br />
+`linkCode` - Joins server by private server invite code<br />
+`launchData` - Launches Roblox with game join data<br />
+`accessCode` - Joins server by access code *Kicks after launch*<br />
+`reservedServerAccessCode` - Launches game with reserved server access code *Kicks after launch*<br />
+`userID` - Follows user into game<br />
+`callId` - Id of Roblox call<br />
 ## Tracking data
-`joinAttemptOrigin` - Origin of join\n
-`launchtime` - Local unix time\n
-`joinAttemptId` - Unique id of join attempt\n
+`joinAttemptOrigin` - Origin of join<br />
+`launchtime` - Local unix time<br />
+`joinAttemptId` - Unique id of join attempt<br />
 ## Examples
-`https://returnrqt.github.io/RobloxGameJoiner/?placeid=1818` - Joins crossroads\n
-`https://returnrqt.github.io/RobloxGameJoiner/?placeid=1818&gameInstanceId=6a62d499-b69c-4300-ac3f-ad2f395f4097` - Joins crossroads server with job id 6a62d499-b69c-4300-ac3f-ad2f395f4097\n
-`https://returnrqt.github.io/RobloxGameJoiner/?userID=1` - Follows user into game id 1\n
-`https://returnrqt.github.io/RobloxGameJoiner/?callId=123` - Joins Roblox call id 123\n
+`https://returnrqt.github.io/RobloxGameJoiner/?placeid=1818` - Joins crossroads<br />
+`https://returnrqt.github.io/RobloxGameJoiner/?placeid=1818&gameInstanceId=6a62d499-b69c-4300-ac3f-ad2f395f4097` - Joins crossroads server with job id 6a62d499-b69c-4300-ac3f-ad2f395f4097<br />
+`https://returnrqt.github.io/RobloxGameJoiner/?userID=1` - Follows user into game id 1<br />
+`https://returnrqt.github.io/RobloxGameJoiner/?callId=123` - Joins Roblox call id 123<br />
