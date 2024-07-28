@@ -18,5 +18,5 @@ Allows you to launch Roblox with custom arguments from website
 ## Examples
 `https://returnrqt.github.io/RobloxGameJoiner/?placeid=1818` - Joins crossroads<br />
 `https://returnrqt.github.io/RobloxGameJoiner/?placeid=1818&gameInstanceId=6a62d499-b69c-4300-ac3f-ad2f395f4097` - Joins crossroads server with job id 6a62d499-b69c-4300-ac3f-ad2f395f4097<br />
-`https://returnrqt.github.io/RobloxGameJoiner/?userID=1` - Follows user into game id 1<br />
+`https://returnrqt.github.io/RobloxGameJoiner/?userID=1` - Follows user id 1 into game<br />
 `https://returnrqt.github.io/RobloxGameJoiner/?callId=123` - Joins Roblox call id 123<br />
