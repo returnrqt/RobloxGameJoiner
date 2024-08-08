@@ -1,8 +1,8 @@
 # Roblox Game Joiner
-Allows you to launch Roblox with custom arguments from website
+Allows you to launch Roblox with custom parameters from a website
 
-# Roblox launch arguments
-## Game arguments
+# Roblox launch parameters
+## Game parameters
 `placeid` - Launches Roblox game with place id<br />
 `gameInstanceId` - Joins server by JobId<br />
 `linkCode` - Joins server by private server invite code<br />
@@ -11,7 +11,7 @@ Allows you to launch Roblox with custom arguments from website
 `reservedServerAccessCode` - Launches game with reserved server access code *Kicks after launch*<br />
 `userID` - Follows user into game<br />
 `callId` - Id of Roblox call<br />
-## Tracking data
+## Tracking parameters
 `joinAttemptOrigin` - Origin of join<br />
 `launchtime` - Local unix time<br />
 `joinAttemptId` - Unique id of join attempt<br />
