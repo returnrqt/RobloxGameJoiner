@@ -6,11 +6,11 @@ Allows you to launch Roblox with custom parameters from a website
 `placeid` - Launches Roblox game with place id<br />
 `gameInstanceId` - Joins server by JobId<br />
 `linkCode` - Joins server by private server invite code<br />
-`launchData` - Launches Roblox with game join data<br />
+`launchData` - Launches Roblox game with [launch data](https://devforum.roblox.com/t/developer-deeplinking-beta/1904069)<br />
 `accessCode` - Joins server by access code *Kicks after launch*<br />
 `reservedServerAccessCode` - Launches game with reserved server access code *Kicks after launch*<br />
 `userID` - Follows user into game<br />
-`callId` - Id of Roblox call<br />
+`callId` - Join game by [call id](https://www.roblox.com/games/15308759682/Roblox-Connect)<br />
 ## Tracking parameters
 `joinAttemptOrigin` - Origin of join<br />
 `launchtime` - Local unix time<br />
