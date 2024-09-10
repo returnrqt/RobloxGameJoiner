@@ -1,22 +1,6 @@
-<html>
+<!DOCTYPE html>
+<html style="background-color: #222;">
   <head>
-    <script>
-      const href = window.location.href;
-      const url = new URL(href);
-      function searchParams() {
-          let CombinedParameters = '';
-          url.searchParams.forEach(function(value, key) {
-              if (CombinedParameters !== '') {
-                  CombinedParameters = CombinedParameters + '&' + key + '=' + value;
-              } else {
-                  CombinedParameters = CombinedParameters + '?' + key + '=' + value;
-              }
-              
-          });
-          return CombinedParameters;
-      };
-      console.log(searchParams())
-      window.location.href = 'roblox://experiences/start'+searchParams();
-    </script>
+    <script src="./Joiner.js"></script>
   </head>
 </html>
