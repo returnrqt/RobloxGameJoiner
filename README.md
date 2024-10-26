@@ -13,6 +13,8 @@ This tool allows you to launch Roblox with custom parameters directly from a web
 - **`reservedServerAccessCode`**: Launches a game using a reserved server access code (this disconnects the player).
 - **`userID`**: Follows a specific user into a game.
 - **`callId`**: Joins a game using a [call ID](https://devforum.roblox.com/t/the-future-of-immersive-communication-on-roblox/2701137).
+- **`id`**: ?
+- **`eventId`**: ? - Might be related to The Haunt
 
 ### Tracking Parameters
 - **`joinAttemptOrigin`**: Indicates the [origin of the join](https://gist.github.com/returnrqt/c524cd4f93062ee90df8c5b2604133d4) attempt.
